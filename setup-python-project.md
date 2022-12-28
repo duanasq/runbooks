@@ -1,4 +1,4 @@
-# Goal: Set up python version and deps for a new project
+# Set up python version and deps for a new project
 
 **Step 0.** Install [pyenv](https://github.com/pyenv/pyenv) and [pipenv](https://pipenv.pypa.io/)
 
@@ -37,7 +37,7 @@ This will add the package to the Pipfile and Pipfile.lock
 
 **Step 5.** Check Pipfile and Pipfile.lock into version control
 
-# Goal: Install dependencies for an existing project
+# Install dependencies for an existing project
 
 **Step 0.** Clone the project and make sure pipenv is installed
 
