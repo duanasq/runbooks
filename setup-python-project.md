@@ -1,4 +1,4 @@
-# Set up python version and deps for a new project
+# Goal: Set up python version and deps for a new project
 
 **Step 0.** Install [pyenv](https://github.com/pyenv/pyenv) and [pipenv](https://pipenv.pypa.io/)
 
